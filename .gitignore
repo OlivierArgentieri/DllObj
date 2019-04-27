@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+DllObj/.vs/DllObj/v15/.suo
+DllObj/.vs/DllObj/v15/Browse.VC.db
+DllObj/.vs/DllObj/v15/Browse.VC.opendb
+DllObj/.vs/DllObj/v15/ipch/7b43fe27d90a7587.ipch

@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  DllObj.cpp
+  Face.cpp
+  Obj.cpp
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(41): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(42): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(43): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(51): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(52): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(60): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(61): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(62): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(71): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(72): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(73): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(75): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(76): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(77): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(79): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(80): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+g:\projet\pullgithub\dllobj\dllobj\dllobj\obj.cpp(81): warning C4244: 'argument' : conversion de 'double' en 'unsigned int', perte possible de données
+  ObjModel.cpp
+  Vector3.cpp
+  Vertex.cpp
+g:\projet\pullgithub\dllobj\dllobj\dllobj\vertex.cpp(7): warning C4930: 'Vertex Vector3(void)' : fonction prototypée non appelée (était-ce la définition de variable souhaitée ?)
+  Génération de code en cours...
+  DllObj.vcxproj -> G:\Projet\pullGithub\DllObj\DllObj\Debug\DllObj.dll
