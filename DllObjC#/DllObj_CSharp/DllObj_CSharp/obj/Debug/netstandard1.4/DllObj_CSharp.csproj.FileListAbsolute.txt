@@ -1,0 +1,8 @@
+D:\OlivierArgentieri\Github_pull\DllObj\DllObjC#\DllObj_CSharp\DllObj_CSharp\bin\Debug\netstandard1.4\DllObj_CSharp.deps.json
+D:\OlivierArgentieri\Github_pull\DllObj\DllObjC#\DllObj_CSharp\DllObj_CSharp\bin\Debug\netstandard1.4\DllObj_CSharp.dll
+D:\OlivierArgentieri\Github_pull\DllObj\DllObjC#\DllObj_CSharp\DllObj_CSharp\bin\Debug\netstandard1.4\DllObj_CSharp.pdb
+D:\OlivierArgentieri\Github_pull\DllObj\DllObjC#\DllObj_CSharp\DllObj_CSharp\obj\Debug\netstandard1.4\DllObj_CSharp.csprojAssemblyReference.cache
+D:\OlivierArgentieri\Github_pull\DllObj\DllObjC#\DllObj_CSharp\DllObj_CSharp\obj\Debug\netstandard1.4\DllObj_CSharp.csproj.CoreCompileInputs.cache
+D:\OlivierArgentieri\Github_pull\DllObj\DllObjC#\DllObj_CSharp\DllObj_CSharp\obj\Debug\netstandard1.4\DllObj_CSharp.AssemblyInfo.cs
+D:\OlivierArgentieri\Github_pull\DllObj\DllObjC#\DllObj_CSharp\DllObj_CSharp\obj\Debug\netstandard1.4\DllObj_CSharp.dll
+D:\OlivierArgentieri\Github_pull\DllObj\DllObjC#\DllObj_CSharp\DllObj_CSharp\obj\Debug\netstandard1.4\DllObj_CSharp.pdb
