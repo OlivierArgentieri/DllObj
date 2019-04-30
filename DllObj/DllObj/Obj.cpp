@@ -50,7 +50,7 @@ ObjModel Obj::Init()
 				str = regex_replace(str, pattern, replacement);
 				v3.SetX(atof(NextPartOfRow(str, " ").c_str()));
 				v3.SetY(atof(NextPartOfRow(str, " ").c_str()));
-				toReturn.AddTextures(v3);
+				toReturn.AddTextures(v3); 
 			}
 
 			else

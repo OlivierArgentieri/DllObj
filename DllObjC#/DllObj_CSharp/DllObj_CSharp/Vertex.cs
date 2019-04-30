@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DllObj_CSharp
 {
-    class Vertex
+    public class Vertex
     {
     }
 }

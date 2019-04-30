@@ -16,5 +16,10 @@ namespace DllObj_CSharp
             this.m_y_ = _fY;
             this.m_z_ = _fZ;
         }
+
+        public Vector3() : (0,0,0)
+        {
+
+        }
     }
 }

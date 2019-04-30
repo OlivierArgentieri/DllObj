@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DllObj_CSharp
 {
-    class ObjModel
+    public class ObjModel
     {
         public List<Vertex> m_vertexs { get; }
         public  List<Vector3> m_normals { get; }

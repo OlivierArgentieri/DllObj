@@ -32,18 +32,11 @@ namespace DllObj_CSharp
                 ToTexture(l);
                 ToVertex(l);
             }
-            
-            
         }
 
         private void ParseRow(string _sRow)
         {
             
-        }
-
-        private void ReplaceByRegex(ref string _sRow, string _sRule, string _sRemplacement)
-        {
-            _sRow = Regex.Replace(_sRow, _sRule, _sRemplacement);
         }
 
         private void ToNormals(string _sRow)
@@ -52,7 +45,11 @@ namespace DllObj_CSharp
                 return;
 
             ReplaceByRegex(ref _sRow, _ruleRegex, string.Empty);
-
+            Vector3 v3 = new Vector3();
+            v3.m_x_ = float.Parse(_sRow.Split(' ')[0]);
+            v3.m_y_ = float.Parse(_sRow.Split(' ')[1]);
+            v3.m_z_ = float.Parse(_sRow.Split(' ')[2]);
+            this.m_data_.m_normals.Add(v3);
         }
 
         private void ToVertex(string _sRow)
@@ -67,6 +64,11 @@ namespace DllObj_CSharp
             if (_sRow[0] != 'v' && _sRow[1] != 't')
                 return;
 
+        }
+
+        private void ReplaceByRegex(ref string _sRow, string _sRule, string _sRemplacement)
+        {
+            _sRow = Regex.Replace(_sRow, _sRule, _sRemplacement);
         }
     }
 }
